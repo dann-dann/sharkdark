@@ -4,6 +4,8 @@
   "description": "Sharkdark vscode theme",
   "version": "0.0.1",
   "publisher": "Sharkdark",
+  "license": "MIT",
+  "icon": "images/sharkdark.jpeg",
   "engines": {
     "vscode": "^1.91.0"
   },
