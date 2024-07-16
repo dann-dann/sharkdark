@@ -1,0 +1,38 @@
+{
+  "name": "sharkdark",
+  "displayName": "sharkdark",
+  "description": "Sharkdark vscode theme",
+  "version": "0.0.1",
+  "publisher": "Sharkdark",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "sharkdark",
+    "vscode",
+    "theme",
+    "color-theme",
+    "dark",
+    "sleek",
+    "modern",
+    "vercel",
+    "shadcn",
+    "codesandbox"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dann-dann/sharkdark.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sharkdark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sharkdark-color-theme.json"
+      }
+    ]
+  }
+}
