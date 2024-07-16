@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "publisher": "Sharkdark",
   "license": "MIT",
-  "icon": "images/sharkdark.jpeg",
+  "icon": "./images/sharkdark.jpeg",
   "engines": {
     "vscode": "^1.91.0"
   },
